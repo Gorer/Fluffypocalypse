@@ -1,0 +1,1554 @@
+fileFormatVersion: 2
+guid: 0f67fbe14c4aed543bed8a68e4eb7c2e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611e8be5fbe90504182cdcc2b9ef1f91
+      internalID: -590104921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c83e3c9479d33b4fadd463c23de5832
+      internalID: -2072351555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636774408ada2ec4eb4a1fa5ab03efa8
+      internalID: 11569818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3151225433a0c2f49a45d729423c2090
+      internalID: -1242208099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19b5b0e3fc55104cb5f1403d259df21
+      internalID: -1623352309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d1636a53aec1f4f924c03766e0ca63
+      internalID: -1883902236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c623fe72224fb469f748d0fbdda315
+      internalID: 1684530873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d9b7c23e7d3f41a75fffacde6ee2e
+      internalID: -1405082817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec7cc2e67da95a43a696bfe35767879
+      internalID: -2065457465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4bb41cca5a44145889ddbc08b5142b
+      internalID: -1003474367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8d1c82008746748ae2960f5b1f8154
+      internalID: -772502770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1757292b5c4c1d440bab47085d134a37
+      internalID: 1828070877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6f33ca680f1894eb8ee65d3e74dc83
+      internalID: 694352499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70947045bfee6fc4f942b63d7ade6eb5
+      internalID: 1840983572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2cc209c1f3fdc42a3ab553d5fddbe9
+      internalID: -416597426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19185b1afad77c44ca4ee89e71b7fa88
+      internalID: -1654306503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_16
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4c18bdf93c6a34585b942f22f8f99d
+      internalID: -214062117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2a982d90f00a043b1721b89e51ba77
+      internalID: -861843391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415af06c7cdc38549b3b3440372691bf
+      internalID: 781372981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805ba5d1e213e144a981d63ec1a76122
+      internalID: 423171352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085f1926f3375fb4980dc0cfb4f0c820
+      internalID: -1566149831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b20941dcccb9c42a57ffce723bdbe5
+      internalID: -952776301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49f88476916f02489931a8ba3955422
+      internalID: -1095047646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa50a07bb5e60345937d8cf4e5078c2
+      internalID: 1861387899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c8cba5fed99e04296d8b4729d1670c
+      internalID: 2060690508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a7bbe2da093604fb02220d51510938
+      internalID: -1844776704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d778286fdcef2a40a2f77b091a289bd
+      internalID: -820219644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_27
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e18730f0cfbd204dbaa65f357509f6c
+      internalID: -985680304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbab443f20b93ef489e956a989b3b55b
+      internalID: -664530631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5acd9a9a48e19c14d9b51f17cec2c7ec
+      internalID: 230545376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e0395c0965cb54da6df54f847b49ed
+      internalID: 2105540515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d8d0a945b579448f1dad9a9196995
+      internalID: 109050109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_32
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beeaecbb34ba3b8498386fa5f57cdf67
+      internalID: -1061442066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e1dc3b743dc214ca4587c802cf0834
+      internalID: -1480400849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee90de5922195604982fc77733b1091e
+      internalID: -993377798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697e8d87c71e5b9478ce37edb853185e
+      internalID: 1347451346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8df0bad78a04c642a3264e414298521
+      internalID: -56401917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_37
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac59d30c7253f44e95b97a9f5cb8a2f
+      internalID: -1248165104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213f1d90160f71c49beb52f782cb84f0
+      internalID: 2056940182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8238faa3c53e9a439d80ad311aaecf0
+      internalID: 474939217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9205382903a73a48b2e24b7df36c0a4
+      internalID: -1313267885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ec51f5b733d79479316ac402015ef2
+      internalID: 467343114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7934ac5b50314c4181dd89096d53362
+      internalID: 1560955128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f255d646f023e4e98d71bc5b3268eb
+      internalID: -1557649100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8942aaa0a3a7b41a29f6fe849ef1fe
+      internalID: 1993102992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_45
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 64
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a041f375aa4866143801370f8d0bd96b
+      internalID: -1995912105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dd13cbecdc61c46a29e0d9178e957a
+      internalID: 1418839149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_47
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d619288f538744a8854795912e0168
+      internalID: 235094311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_48
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2cfdb4a708a5248a082776f213193e
+      internalID: -492619202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_49
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55628bfd0b63844582f20c0cf325261
+      internalID: 586589723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_50
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83441aacc431e714aaba3ca4086dc113
+      internalID: -1197391146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6e9c2a13511064cbe128e9147df8d5
+      internalID: 1402569737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_52
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbf98e94c310e14299c44dbf6cd0abd
+      internalID: 173022130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_53
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f420d74dc04074d800313294082dc9
+      internalID: -2044036319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_54
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 32
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75112c4cf1ca23e478e2395226342162
+      internalID: 59298917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa8e04bfc3a22a4297e1fcaa5184cd9
+      internalID: 2132210168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28402c02d2f08a4ba8109cb374f7478
+      internalID: -436702313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_57
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a90371a03546774e8cea3744f220941
+      internalID: 1656517557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61e355f235540941a14cb227e42144d
+      internalID: 788194326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_59
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fd0a35110a3724ba4a90474e36f120
+      internalID: 138144291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5d88daff934cb4b83f547553f6e70e
+      internalID: -1117254470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_61
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da97f97b0bb5944f9784fe413112eb3
+      internalID: 1009702204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4389336100e34b6429847195ba642ce5
+      internalID: -1205743195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_63
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033dd8c8dd8019946b71613c639af038
+      internalID: -366903227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_14: -416597426
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_17: -861843391
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_33: -1480400849
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_2: 11569818
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_27: -985680304
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_8: -2065457465
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_13: 1840983572
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_21: -952776301
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_0: -590104921
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_43: -1557649100
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_4: -1623352309
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_63: -366903227
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_48: -492619202
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_46: 1418839149
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_56: -436702313
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_47: 235094311
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_31: 109050109
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_51: 1402569737
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_50: -1197391146
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_37: -1248165104
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_19: 423171352
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_18: 781372981
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_29: 230545376
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_11: 1828070877
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_5: -1883902236
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_20: -1566149831
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_30: 2105540515
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_53: -2044036319
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_3: -1242208099
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_10: -772502770
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_24: 2060690508
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_54: 59298917
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_57: 1656517557
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_44: 1993102992
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_58: 788194326
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_26: -820219644
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_59: 138144291
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_9: -1003474367
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_23: 1861387899
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_35: 1347451346
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_22: -1095047646
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_16: -214062117
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_36: -56401917
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_38: 2056940182
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_41: 467343114
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_62: -1205743195
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_39: 474939217
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_42: 1560955128
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_55: 2132210168
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_40: -1313267885
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_7: -1405082817
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_28: -664530631
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_1: -2072351555
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_45: -1995912105
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_25: -1844776704
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_49: 586589723
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_15: -1654306503
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_32: -1061442066
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_61: 1009702204
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_6: 1684530873
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_34: -993377798
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_52: 173022130
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_60: -1117254470
+      drooly drooly doggo(RPG MAKER COMPATIBLE FORMAT)_12: 694352499
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
