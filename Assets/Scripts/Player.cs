@@ -26,8 +26,11 @@ public class Player : MonoBehaviour
 
     Shooter shooter;
 
+    Animator anim;
+
     private void Awake()
     {
+        anim = GetComponent<Animator>();
         shooter = GetComponent<Shooter>();
     }
 
@@ -50,6 +53,11 @@ public class Player : MonoBehaviour
         minBounds = mainCamera.ViewportToWorldPoint(new Vector2(0, 0));
         // ѕреобразует координаты правого верхнего угла камеры в мировые координаты
         maxBounds = mainCamera.ViewportToWorldPoint(new Vector2(1, 1));
+    }
+
+    public void SetTakeDamageTrigger()
+    {
+        anim.SetTrigger("TakeDamage");
     }
 
     // ƒвигает персонажа

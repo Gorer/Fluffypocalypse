@@ -8,9 +8,11 @@ public class Health : MonoBehaviour
     [SerializeField] bool isPlayer;
     [SerializeField] int health = 50;
     [SerializeField] int score = 50;
+    [SerializeField] Player player;
 
     ScoreKeeper scoreKeeper;
     LevelManager levelManager;
+
 
     void Awake()
     {
@@ -39,6 +41,7 @@ public class Health : MonoBehaviour
     void TakeDamage(int damage)
     {
         health -= damage;
+        player.SetTakeDamageTrigger();
 
         if (health <= 0)
         {

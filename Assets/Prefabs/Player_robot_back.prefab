@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: -1821928165994383545}
   - component: {fileID: 2487655070278306819}
   - component: {fileID: 7167553903556349322}
+  - component: {fileID: 9201534379274285940}
   m_Layer: 6
   m_Name: Player_robot_back
   m_TagString: Untagged
@@ -170,9 +171,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ae5d8491dbf1de84a97d5dfaac7de516, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isPlayer: 0
+  isPlayer: 1
   health: 50
   score: 50
+  player: {fileID: 4026990287567387410}
 --- !u!114 &2487655070278306819
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -203,9 +205,29 @@ CapsuleCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.22295386, y: -0.10662913}
   m_Size: {x: 5.040286, y: 7.2891903}
   m_Direction: 0
+--- !u!95 &9201534379274285940
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3723013728358278820}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 6da05f3ad14994d4c9fb7072617c724d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
