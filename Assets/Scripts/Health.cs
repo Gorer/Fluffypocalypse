@@ -41,7 +41,11 @@ public class Health : MonoBehaviour
     void TakeDamage(int damage)
     {
         health -= damage;
-        player.SetTakeDamageTrigger();
+
+        if (player)
+        {
+            player.SetTakeDamageTrigger();
+        }
 
         if (health <= 0)
         {
